@@ -5,5 +5,5 @@
 5.[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment5.ipynb]
 6.[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment6.ipynb]
 7.[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment7.ipynb]
-8.[]
+8.[https://github.com/EdlaHasini/Stat_ML_B39/blob/main/Assignment%208.ipynb]
 9.[https://github.com/EdlaHasini/Stat_ML_B39/blob/main/Assignment%209.ipynb]
